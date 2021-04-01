@@ -58,4 +58,4 @@ Once your server has started, go to this url `http://localhost:8000/` and you wi
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d5b5a68-8771-4527-9174-3df37cf645d7/deploy-status)](https://mertdogan.netlify.app/)
