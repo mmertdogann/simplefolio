@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne:
-    'Software specializing in both frontend and backend development. Experienced with nearly all stages of the development cycle for dynamic web projects. Experienced in numerous programming languages and frameworks including Java, Spring Boot, JavaScript, React, Node, Express, Scala, Python, MySQL, PostgreSQL, MongoDB, Redis, Kafka. Have a good background in Computer Science.',
+    'Software Engineer that specializing in both frontend and -heavily- backend development. Experienced with nearly all stages of the development cycle for dynamic web projects. Experienced in numerous programming languages and frameworks including Java, Spring Boot, JavaScript, React, Node, Express, Scala, Python, MySQL, PostgreSQL, MongoDB, Redis, Kafka. Have a good background in Computer Science.',
   paragraphTwo:
     'I like learning new things that are about tech and science. I love researching something new, thus I am always in self-development. I am interested in Software Engineering. I constantly educate myself on being a better Software Engineer and problem solver.',
   paragraphThree: 'Would you like to look at my resume',
